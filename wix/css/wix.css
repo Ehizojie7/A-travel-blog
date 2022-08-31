@@ -1,0 +1,107 @@
+body{
+    background: whitesmoke;
+    text-align: center;
+}
+
+#navbar{
+    background: red;
+    color: whitesmoke;
+}
+
+#navbar ul{
+    padding: 0;
+    list-style: none;
+}
+
+#navbar li{
+    display: inline;
+}
+
+#navbar a{
+    color: whitesmoke;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 18px;
+    padding-right: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#navbar a:hover{
+    color: black;
+}
+
+.header{
+    text-align: center;
+}
+
+.trust{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background: wheat;
+    background-size: cover;
+}
+
+#header2{
+    color: red;
+}
+
+.link{
+    float: left;
+    text-decoration: none;
+    border: 3px solid red;
+    padding: 3px;
+    margin: 3px;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.offers{
+    color: red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    text-align: center;
+}
+
+.tour{
+    text-align: center;
+    background: #d92923;
+    background-size: cover;
+}
+
+.subtitle2{
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.white{
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bva{
+    margin-bottom: 40px;
+}
+.services{
+    color: red;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.services-p{
+    text-align: center;
+}
+.family{
+    text-align: center;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.family-p{
+    text-align: center;
+}
+.travel{
+    text-align: center;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
